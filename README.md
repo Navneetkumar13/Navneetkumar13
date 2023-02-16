@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navneet
-- 👀 I’m interested in in DSA, Python,Java and Backend Development stuff. My side interests also includes Sketching and guitar too.
+- 👀 I’m interested in in DSA,Java and Backend Development stuff. My side interests also includes Sketching and guitar too.
 - 🌱 I’m currently aquiring deep knowledge of Java backend development Tech Stack
-- 💞️ I am skilled in Python, Java and working knowledge in SpringBoot,OOPs,Exception Handling,Test Driven Development,REST, Mockito,JUnit, MySql.
+- 💞️ I am skilled in Python, Java, SpringBoot, Spring MVC, Spring, MySQL, RDBMS, OOPs and REST.
 - 📫 How to reach me Email: navneet1465@gmail.com
 
 <!---
